@@ -26,5 +26,6 @@ if (row === undefined) {
     console.log('Database exists.')
 }
 console.log('AYOOOOO');
+console.log('If you somehow see this, you are the GOAT');
 // Export all of the above as a module so that we can use it elsewhere.
 module.exports = db
